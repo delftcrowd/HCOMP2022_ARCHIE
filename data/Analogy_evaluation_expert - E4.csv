@@ -1,0 +1,83 @@
+participant_id,task_id,concept,label,analogy,Valid,Syntactic correctness,Misunderstanding,Factual Correctness,structural correspondence,Relational similarity,Familiarity,Helpfulness,Transferability,Simplicity,Domain,Relation Type
+participant_33,T002,beet and apple,high calorie,This is like plants can seldom be found in desert.,Yes,Yes,No,Yes without switch,2,3,5,2,2,3,Plants,FoundAt
+participant_46,P003_1,window and curtain,bedroom,"This is like acrylic paint can typically be associated with painting, but it’s also possible to associate acrylic paint with graffiti .",Yes,Yes,No,Yes without switch,3,2,5,2,2,3,Art,UsedFor
+participant_46,P009_1,fireplace,bedroom,This is like roller-coaster  can seldom be found in beach.,Yes,Yes,No,Yes without switch,2,3,5,3,2,4,Other,FoundAt
+participant_10,P007_2,medical monitor,hospital room,"This is like care can typically be associated with patient, but it’s also possible to associate care with curtains for discretion.",No,,,,,,,,,,,
+participant_10,P009_1,fireplace,bedroom,This is like heating can seldom be found in warmth.,No,,,,,,,,,,,
+participant_27,T009_1,carrot,high calorie,"This is like diets can typically be associated with field of hay, but it’s also possible to associate diets with gemstones in a gold mine..",Yes,Yes,Yes,No,1,2,5,1,1,2,Other,PartOf
+participant_27,T010_2,nuts,high calorie,This is similar to how one cannot find fire hydrants in boats.,Yes,Yes,No,Yes without switch,4,4,5,3,3,3,Other,FoundAt
+participant_20,T009_1,carrot,high calorie,This is like horses can seldom be found in in the city.,Yes,Yes,No,Yes without switch,1,2,5,2,2,3,Animals,FoundAt
+participant_3,T008_2,lemon,high calorie,This is similar to how hair is irrelevant for recognising a student.,Yes,Yes,No,No,1,1,5,1,1,2,Other,UsedFor
+participant_24,P004_2,toilet,bathroom,This is like keys is definitely a sign of keyboard.,Yes,Yes,No,No,3,5,5,1,1,3,Electronics,SignOf
+participant_24,P008_1,table and chair,conference room,"This is similar to how we can find water in both ocean and river, you can’t determine where it is if you see water.",Yes,Yes,No,Yes without switch,3,4,5,3,3,3,Weather,FoundAt
+participant_7,P004_2,toilet,bathroom,This is like unicorn is definitely a sign of one horn on head.,Yes,Yes,No,Yes without switch,3,3,5,3,2,4,Animals,SignOf
+participant_7,P007_2,medical monitor,hospital room,"This is like motorway can typically be associated with traffic, but it’s also possible to associate motorway with congestion.",Yes,Yes,No,Yes without switch,5,4,5,4,2,4,Other,PartOf
+participant_25,T006,chocolate and ice cream,high calorie,This is like the creamy texture  is definitely a sign of fatty food.,No,,,,,,,,,,,
+participant_13,T002,beet and apple,high calorie,This is similar to how one cannot find warmth in the antarctic in welfare benefits and wealth.,Yes,No,Yes,No,1,2,5,1,1,3,Weather,FoundAt
+participant_23,T001,chocolate and cream,low calorie,This is similar to how one cannot find fat in juice.,No,,,,,,,,,,,
+participant_23,T002,beet and apple,high calorie,"This is similar to how we can find healthy in both garden and supermarket, you can’t determine where it is if you see healthy.",Yes,No,Yes,No,1,1,5,1,1,3,Food,FoundAt
+participant_23,T010_2,nuts,high calorie,"This is like dog can typically be associated with aviary, but it’s also possible to associate dog with hospital.",Yes,Yes,No,No,3,2,5,1,1,3,Animals,SignOf
+participant_37,P004_1,toothbrush and towel,bathroom,This is like washing is definitely a sign of cleaning.,Yes,Yes,No,Yes without switch,3,2,5,2,2,2,Other,SignOf
+participant_44,P003_1,window and curtain,bedroom,"This is similar to how we can find wings birds insects  in both change pocket wallet  and intelligence people animals , you can’t determine where it is if you see wings birds insects .",Yes,No,Yes,No,2,3,5,1,1,2,Animals,SignOf
+participant_44,P008_1,table and chair,conference room,"This is like fruit sweet sour  can typically be associated with sky blue black , but it’s also possible to associate fruit sweet sour  with cat purring growling .",Yes,No,Yes,No,2,2,5,1,1,2,Food,SignOf
+participant_32,P003_1,window and curtain,bedroom,"This is similar to how we can find cushions in both sofa and armchair, you can’t determine where it is if you see cushions.",Yes,Yes,No,Yes without switch,5,4,5,4,3,4,Place,FoundAt
+participant_32,P009_1,fireplace,bedroom,This is like dogs can seldom be found in fishtank.,Yes,Yes,No,Yes without switch,2,3,5,3,3,3,Animals,FoundAt
+participant_47,P003_1,window and curtain,bedroom,"This is similar to how we can find book in both library and house, you can’t determine where it is if you see book.",Yes,Yes,No,Yes without switch,3,2,5,3,3,4,Other,FoundAt
+participant_47,P004_1,toothbrush and towel,bathroom,This is like pasta is definitely a sign of lasagna.,Yes,Yes,No,Yes without switch,5,4,5,4,3,3,Food,SignOf
+participant_22,P003_1,window and curtain,bedroom,"This is similar to how we can find dogs in both kennels and parks, you can’t determine where it is if you see dogs.",Yes,Yes,No,No,2,2,5,1,1,2,Animals,FoundAt
+participant_22,P009_1,fireplace,bedroom,This is similar to how picture is irrelevant for recognising a art gallery.,Yes,Yes,No,No,1,1,5,1,1,2,Art,UsedFor
+participant_48,T008_2,lemon,high calorie,This is similar to how having hair is irrelevant for recognising a human.,Yes,Yes,No,No,1,1,5,1,1,2,Other,UsedFor
+participant_48,T010_2,nuts,high calorie,"This is like skirts can typically be associated with women, but it’s also possible to associate skirts with scottish people.",Yes,Yes,No,Yes without switch,5,4,5,4,3,2,Other,UsedFor
+participant_38,P008_1,table and chair,conference room,This is like fruit can seldom be found in train station.,Yes,Yes,No,No,3,3,5,1,1,3,Food,FoundAt
+participant_11,P003_1,window and curtain,bedroom,"This is like water is to weather can typically be associated with health is to vegetables , but it’s also possible to associate water is to weather with vegetables are to food.",Yes,No,Yes,No,2,2,5,1,1,3,Weather,UsedFor
+participant_11,P007_2,medical monitor,hospital room,This is like as burgers are to food is definitely a sign of as sport is to football.,Yes,No,No,No,2,1,5,1,1,3,Food,SignOf
+participant_11,P009_1,fireplace,bedroom,This is like poison is to food can seldom be found in sport is to steroids.,Yes,Yes,No,No,1,2,5,1,1,2,Other,SignOf
+participant_17,T009_1,carrot,high calorie,This is like rain can seldom be found in the desert.,Yes,Yes,No,Yes without switch,1,1,5,2,1,3,Weather,FoundAt
+participant_43,T008_2,lemon,high calorie,This is similar to how one cannot find furniture in a electronics store.,Yes,Yes,No,Yes without switch,4,3,5,2,2,3,Other,FoundAt
+participant_14,P004_1,toothbrush and towel,bathroom,This is like clouds is definitely a sign of weather.,Yes,Yes,No,No,4,5,5,1,1,2,Weather,SignOf
+participant_14,P007_2,medical monitor,hospital room,This is like digital to analogue converter is definitely a sign of electronics.,Yes,Yes,No,No,4,3,5,1,1,3,Electronics,SignOf
+participant_14,P008_1,table and chair,conference room,This is like wild animals is definitely a sign of nature.,Yes,Yes,No,No,3,2,5,1,1,2,Animals,SignOf
+participant_14,P009_1,fireplace,bedroom,This is like art is definitely a sign of human expression.,Yes,Yes,No,No,1,1,5,1,1,3,Art,SignOf
+participant_41,T009_1,carrot,high calorie,This is similar to how one cannot find you can't find polar bears in in the desert.,Yes,Yes,No,Yes without switch,1,1,5,1,1,2,Animals,FoundAt
+participant_1,P007_2,medical monitor,hospital room,This is like echocardiogram is definitely a sign of pulse oximeter.,Yes,Yes,No,No,5,4,1,1,1,3,Electronics,SignOf
+participant_1,P008_1,table and chair,conference room,"This is similar to how we can find table in both coffee machine and projection screen, you can’t determine where it is if you see table.",No,,,,,,,,,,,
+participant_15,P004_2,toilet,bathroom,"This is like  relaxing place for long soak  can typically be associated with to do personal grooming, but it’s also possible to associate  relaxing place for long soak  with clean and cool.",No,,,,,,,,,,,
+participant_15,P008_1,table and chair,conference room,"This is like place for work can typically be associated with to help progress work, but it’s also possible to associate place for work with to have successful meetings.",No,,,,,,,,,,,
+participant_15,P009_1,fireplace,bedroom,This is like to help warm room can seldom be found in to make room cosy.,No,,,,,,,,,,,
+participant_2,T002,beet and apple,high calorie,This is similar to how one cannot find politician in honesty.,Yes,No,No,No,1,1,5,1,1,3,Other,FoundAt
+participant_2,T010_2,nuts,high calorie,"This is like sunny weather can typically be associated with sunbathing, but it’s also possible to associate sunny weather with rainbow.",Yes,Yes,No,Yes with switch,4,4,5,3,2,4,Weather,PartOf
+participant_36,T009_1,carrot,high calorie,This is like dish is definitely a sign of healthiness.,Yes,Yes,No,No,1,1,5,1,1,3,Food,SignOf
+participant_36,T010_2,nuts,high calorie,This is similar to how one cannot find beds in the gym.,Yes,Yes,No,No,4,3,5,1,1,3,Other,FoundAt
+participant_9,T009_1,carrot,high calorie,"This is like duck can typically be associated with quack, but it’s also possible to associate duck with food.",Yes,Yes,No,Yes without switch,1,2,5,2,2,3,Animals,PartOf
+participant_40,T008_2,lemon,high calorie,This is similar to how one cannot find rats in farming.,Yes,Yes,No,No,1,1,5,1,1,4,Animals,FoundAt
+participant_28,P004_1,toothbrush and towel,bathroom,"This is similar to how we can find television in both room and office, you can’t determine where it is if you see television.",Yes,Yes,No,No,3,3,5,1,1,3,Electronics,FoundAt
+participant_28,P007_2,medical monitor,hospital room,This is like sink can seldom be found in parlour.,Yes,Yes,No,No,3,3,5,1,1,2,Other,FoundAt
+participant_28,P008_1,table and chair,conference room,This is similar to how cheetah is irrelevant for recognising a office.,Yes,Yes,No,Yes without switch,4,3,5,3,1,3,Animals,UsedFor
+participant_16,P007_2,medical monitor,hospital room,This is like four wheels is definitely a sign of car.,Yes,No,No,No,3,3,5,1,1,3,Other,SignOf
+participant_18,T002,beet and apple,high calorie,This is similar to how one cannot find sun on a cloudy day in naturally grown.,Yes,Yes,No,No,1,1,5,1,1,3,Weather,FoundAt
+participant_18,T008_2,lemon,high calorie,"This is similar to how we can find room in a house in both bill in a wallet and plant in a garden, you can’t determine where it is if you see room in a house.",Yes,No,No,No,1,1,5,1,1,3,Other,FoundAt
+participant_18,T009_1,carrot,high calorie,This is similar to how one cannot find skinny hippo in tasty dirt.,Yes,Yes,No,No,1,2,5,1,1,3,Animals,FoundAt
+participant_5,P007_2,medical monitor,hospital room,This is like medical centre is definitely a sign of research lab.,No,,,,,,,,,,,
+participant_4,T006,chocolate and ice cream,high calorie,"This is like cows can typically be associated with farms, but it’s also possible to associate cows with petting zoos.",Yes,Yes,No,No,3,3,5,1,1,2,Animals,PartOf
+participant_30,T002,beet and apple,high calorie,This is like polar bear can seldom be found in sahara.,Yes,Yes,No,Yes without switch,2,3,5,2,2,3,Animals,FoundAt
+participant_34,T001,chocolate and cream,low calorie,"This is similar to how we can find boots in both mud and grass, you can’t determine where it is if you see boots.",Yes,Yes,No,No,3,4,5,1,1,3,Other,FoundAt
+participant_34,T010_2,nuts,high calorie,"This is similar to how we can find bed in both blanket and pillow, you can’t determine where it is if you see bed.",Yes,Yes,No,Yes without switch,3,3,5,3,2,4,Other,FoundAt
+participant_45,P003_1,window and curtain,bedroom,This is like bed can seldom be found in bottom of the ocean.,No,,,,,,,,,,,
+participant_45,P009_1,fireplace,bedroom,"This is like cat can typically be associated with cow, but it’s also possible to associate cat with farm.",Yes,Yes,No,Yes with switch,1,3,5,1,1,3,Animals,SignOf
+participant_42,T001,chocolate and cream,low calorie,This is like baby is definitely a sign of pregnancy.,Yes,Yes,No,Yes without switch,1,2,5,2,1,2,Other,SignOf
+participant_42,T010_2,nuts,high calorie,"This is like animals can typically be associated with dams, but it’s also possible to associate animals with seas/oceans/dams.",Yes,No,Yes,No,2,2,5,1,1,3,Animals,SignOf
+participant_49,P008_1,table and chair,conference room,"This is similar to how we can find money in both pay school fees and buy clothes, you can’t determine where it is if you see money.",Yes,Yes,Yes,No,2,3,5,1,1,3,Other,SignOf
+participant_29,P007_2,medical monitor,hospital room,This is like soup is definitely a sign of bowl.,Yes,Yes,No,No,2,2,5,1,1,2,Other,SignOf
+participant_31,P004_2,toilet,bathroom,This is like sun is definitely a sign of the sky.,Yes,Yes,No,No,3,3,5,1,1,3,Weather,SignOf
+participant_31,P008_1,table and chair,conference room,"This is like whiteboard can typically be associated with classroom, but it’s also possible to associate whiteboard with playroom.",Yes,Yes,No,Yes without switch,5,4,5,3,2,4,Other,SignOf
+participant_6,P004_2,toilet,bathroom,This is like seashells is definitely a sign of the beach.,Yes,Yes,No,No,3,3,5,1,1,2,Other,SignOf
+participant_39,P004_1,toothbrush and towel,bathroom,"This is like car can typically be associated with wheels, but it’s also possible to associate car with garage.",Yes,Yes,No,Yes without switch,4,2,5,3,2,3,Other,SignOf
+participant_39,P008_1,table and chair,conference room,"This is similar to how we can find cake in both birthday parties and weddings, you can’t determine where it is if you see cake.",Yes,Yes,No,Yes without switch,3,2,5,3,2,3,Food,FoundAt
+participant_26,T002,beet and apple,high calorie,"This is like plants can typically be associated with gardens, but it’s also possible to associate plants with nurseries.",Yes,Yes,No,Yes with switch,1,2,5,2,1,4,Other,SignOf
+participant_35,T001,chocolate and cream,low calorie,This is similar to how one cannot find fish  in on top of a mountain.,Yes,Yes,No,No,1,3,5,1,1,3,Animals,FoundAt
+participant_35,T010_2,nuts,high calorie,This is like a runway  is definitely a sign of models.,Yes,Yes,No,No,3,3,5,1,1,4,Other,SignOf
+participant_19,T009_1,carrot,high calorie,This is like how snakes can seldom be found in new zealand.,Yes,Yes,No,No,1,2,5,1,1,3,Animals,FoundAt
+participant_12,P007_2,medical monitor,hospital room,This is like atm is definitely a sign of bank.,Yes,Yes,No,No,3,4,5,1,1,3,Other,SignOf
+participant_21,P004_1,toothbrush and towel,bathroom,This is like primary school is definitely a sign of children.,Yes,Yes,No,Yes without switch,4,4,5,3,2,4,Other,SignOf
+participant_21,P007_2,medical monitor,hospital room,This is like things falling is definitely a sign of gravity.,Yes,Yes,No,Yes without switch,5,5,5,3,1,3,Other,SignOf
+participant_8,P004_2,toilet,bathroom,This is like a sofa is definitely a sign of a lounge.,Yes,Yes,No,No,4,4,5,1,1,2,Other,SignOf

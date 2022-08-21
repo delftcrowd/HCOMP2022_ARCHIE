@@ -1,0 +1,601 @@
+participant_id,task_id,concept,label,analogy
+participant_90,T001,chocolate and cream,low calorie,This is similar to how one cannot find snowflake in desert.
+participant_90,T002,beet and apple,high calorie,This is similar to how one cannot find dogs  in trees.
+participant_90,T006,chocolate and ice cream,high calorie,"This is like bikes can typically be associated with two wheels, but it’s also possible to associate bikes with three wheels."
+participant_90,T008_2,lemon,high calorie,This is like the sun can seldom be found in the night.
+participant_90,T009_1,carrot,high calorie,This is like basements can seldom be found in submarines.
+participant_90,T010_2,nuts,high calorie,This is like gold can seldom be found in gardens.
+participant_79,T001,chocolate and cream,low calorie,This is similar to how one cannot find domesticated animals in zoo.
+participant_79,T002,beet and apple,high calorie,This is similar to how nickel is irrelevant for recognising a haystack.
+participant_79,T006,chocolate and ice cream,high calorie,This is like pink feathers is definitely a sign of flamingo.
+participant_79,T008_2,lemon,high calorie,This is similar to how one cannot find crocodile in wings.
+participant_79,T009_1,carrot,high calorie,This is similar to how one cannot find eiffel tower in milan.
+participant_79,T010_2,nuts,high calorie,This is like seat is definitely a sign of subway.
+participant_33,T001,chocolate and cream,low calorie,This is similar to how one cannot find tsumanis in uk.
+participant_33,T002,beet and apple,high calorie,This is like plants can seldom be found in desert.
+participant_33,T006,chocolate and ice cream,high calorie,"This is like chickens can typically be associated with farms, but it’s also possible to associate chickens with gardens."
+participant_33,T008_2,lemon,high calorie,"This is similar to how we can find flowers in both planter and vase, you can’t determine where it is if you see flowers."
+participant_33,T009_1,carrot,high calorie,This is like bird can seldom be found in indoors.
+participant_33,T010_2,nuts,high calorie,"This is similar to how we can find hairdryer in both hotel and hairdresser, you can’t determine where it is if you see hairdryer."
+participant_46,P003_1,window and curtain,bedroom,"This is like acrylic paint can typically be associated with painting, but it’s also possible to associate acrylic paint with graffiti ."
+participant_46,P004_1,toothbrush and towel,bathroom,"This is like steering wheel can typically be associated with car, but it’s also possible to associate steering wheel with truck/bus."
+participant_46,P004_2,toilet,bathroom,This is like newspaper  is definitely a sign of headlines .
+participant_46,P007_2,medical monitor,hospital room,This is like shoes  is definitely a sign of sole.
+participant_46,P008_1,table and chair,conference room,"This is like atmosphere  can typically be associated with nitrogen , but it’s also possible to associate atmosphere  with oxygen."
+participant_46,P009_1,fireplace,bedroom,This is like roller-coaster  can seldom be found in beach.
+participant_10,P003_1,window and curtain,bedroom,"This is similar to how we can find privacy in both darkness or light and closure, you can’t determine where it is if you see privacy."
+participant_10,P004_1,toothbrush and towel,bathroom,This is like hygiene is definitely a sign of cleaning .
+participant_10,P004_2,toilet,bathroom,This is like washing  is definitely a sign of showering .
+participant_10,P007_2,medical monitor,hospital room,"This is like care can typically be associated with patient, but it’s also possible to associate care with curtains for discretion."
+participant_10,P008_1,table and chair,conference room,"This is similar to how we can find business in both meetings and discussion, you can’t determine where it is if you see business."
+participant_10,P009_1,fireplace,bedroom,This is like heating can seldom be found in warmth.
+participant_27,T001,chocolate and cream,low calorie,This is like cement can seldom be found in niagara falls.
+participant_27,T002,beet and apple,high calorie,This is similar to how motorway is irrelevant is irrelevant for recognising a pot noodle cannot be associated.
+participant_27,T006,chocolate and ice cream,high calorie,"This is like bees can typically be associated with a nest full of honey, but it’s also possible to associate bees with palace with crown jewels.."
+participant_27,T008_2,lemon,high calorie,This is similar to how one cannot find trees in chimneys.
+participant_27,T009_1,carrot,high calorie,"This is like diets can typically be associated with field of hay, but it’s also possible to associate diets with gemstones in a gold mine.."
+participant_27,T010_2,nuts,high calorie,This is similar to how one cannot find fire hydrants in boats.
+participant_65,P003_1,window and curtain,bedroom,"This is similar to how we can find cows in both farm and sanctuary, you can’t determine where it is if you see cows."
+participant_65,P004_1,toothbrush and towel,bathroom,This is like football is definitely a sign of soccer.
+participant_65,P004_2,toilet,bathroom,"This is like dogs can typically be associated with cute, but it’s also possible to associate dogs with scary."
+participant_65,P007_2,medical monitor,hospital room,"This is like car can typically be associated with road, but it’s also possible to associate car with driveway."
+participant_65,P008_1,table and chair,conference room,"This is similar to how we can find ice cream in both ice cream parlor and ice cream van, you can’t determine where it is if you see ice cream."
+participant_65,P009_1,fireplace,bedroom,This is like bus can seldom be found in canal.
+participant_20,T001,chocolate and cream,low calorie,This is like librarian is definitely a sign of in a library.
+participant_20,T002,beet and apple,high calorie,This is like healthy people can seldom be found in at the doctors.
+participant_20,T006,chocolate and ice cream,high calorie,This is like duvet is definitely a sign of bed.
+participant_20,T008_2,lemon,high calorie,This is like ducks can seldom be found in zoo.
+participant_20,T009_1,carrot,high calorie,This is like horses can seldom be found in in the city.
+participant_20,T010_2,nuts,high calorie,"This is like trees can typically be associated with forest, but it’s also possible to associate trees with garden."
+participant_3,T001,chocolate and cream,low calorie,This is similar to how one cannot find elderly people in kindergarten classes.
+participant_3,T002,beet and apple,high calorie,"This is similar to how we can find sand in both the beach and sandpits at a playground, you can’t determine where it is if you see sand."
+participant_3,T006,chocolate and ice cream,high calorie,This is like having a wifi connection is definitely a sign of a router nearby.
+participant_3,T008_2,lemon,high calorie,This is similar to how hair is irrelevant for recognising a student.
+participant_3,T009_1,carrot,high calorie,"This is like sunscreen can typically be associated with beach holidays, but it’s also possible to associate sunscreen with skiing holidays."
+participant_3,T010_2,nuts,high calorie,"This is similar to how we can find books in both libraries and bookshops, you can’t determine where it is if you see books."
+participant_96,T001,chocolate and cream,low calorie,This is like socket is definitely a sign of electrical supply.
+participant_96,T002,beet and apple,high calorie,"This is like cars can typically be associated with roads, but it’s also possible to associate cars with race tracks."
+participant_96,T006,chocolate and ice cream,high calorie,This is like black clouds is definitely a sign of stormy weather.
+participant_96,T008_2,lemon,high calorie,This is similar to how one cannot find rabbits in the sea.
+participant_96,T009_1,carrot,high calorie,This is like books can seldom be found in sports centres.
+participant_96,T010_2,nuts,high calorie,This is like rooms full of paintings is definitely a sign of an art gallery.
+participant_91,T001,chocolate and cream,low calorie,This is similar to how one cannot find polar bears in jungle.
+participant_91,T002,beet and apple,high calorie,This is like ice can seldom be found in the equator.
+participant_91,T006,chocolate and ice cream,high calorie,"This is like paw prints can typically be associated with dogs, but it’s also possible to associate paw prints with wolves."
+participant_91,T008_2,lemon,high calorie,This is like books can seldom be found in cinemas.
+participant_91,T009_1,carrot,high calorie,This is like pedestrians can seldom be found in motorway.
+participant_91,T010_2,nuts,high calorie,"This is like ice cream can typically be associated with summer, but it’s also possible to associate ice cream with surgery recovery."
+participant_60,P003_1,window and curtain,bedroom,"This is similar to how we can find pencil in both office and art studio, you can’t determine where it is if you see pencil."
+participant_60,P004_1,toothbrush and towel,bathroom,"This is like apple can typically be associated with greengrocer, but it’s also possible to associate apple with supermarket."
+participant_60,P004_2,toilet,bathroom,This is like beating heart is definitely a sign of living person.
+participant_60,P007_2,medical monitor,hospital room,"This is like clouds can typically be associated with a rainy day, but it’s also possible to associate clouds with an overcast day."
+participant_60,P008_1,table and chair,conference room,"This is similar to how we can find ball in both tennis court and football pitch, you can’t determine where it is if you see ball."
+participant_60,P009_1,fireplace,bedroom,This is like dog can seldom be found in a street alone.
+participant_62,T001,chocolate and cream,low calorie,This is similar to how one cannot find rabbit in the savanah.
+participant_62,T002,beet and apple,high calorie,This is similar to how table is irrelevant for recognising a dining room.
+participant_62,T006,chocolate and ice cream,high calorie,This is like bath is definitely a sign of bathroom.
+participant_62,T008_2,lemon,high calorie,"This is like water can typically be associated with rain, but it’s also possible to associate water with lakes."
+participant_62,T009_1,carrot,high calorie,This is like bed can seldom be found in livingroom.
+participant_62,T010_2,nuts,high calorie,"This is like dragons can typically be associated with fantasy literature, but it’s also possible to associate dragons with wales."
+participant_24,P003_1,window and curtain,bedroom,"This is similar to how we can find fur in both cat and dog, you can’t determine where it is if you see fur."
+participant_24,P004_1,toothbrush and towel,bathroom,This is like volts is definitely a sign of electricity.
+participant_24,P004_2,toilet,bathroom,This is like keys is definitely a sign of keyboard.
+participant_24,P007_2,medical monitor,hospital room,This is like sentience is definitely a sign of humans.
+participant_24,P008_1,table and chair,conference room,"This is similar to how we can find water in both ocean and river, you can’t determine where it is if you see water."
+participant_24,P009_1,fireplace,bedroom,This is like humans can seldom be found in arctic.
+participant_7,P003_1,window and curtain,bedroom,"This is similar to how we can find animals in both zoo and farm, you can’t determine where it is if you see animals."
+participant_7,P004_1,toothbrush and towel,bathroom,"This is like supermarket can typically be associated with food, but it’s also possible to associate supermarket with shoppers."
+participant_7,P004_2,toilet,bathroom,This is like unicorn is definitely a sign of one horn on head.
+participant_7,P007_2,medical monitor,hospital room,"This is like motorway can typically be associated with traffic, but it’s also possible to associate motorway with congestion."
+participant_7,P008_1,table and chair,conference room,"This is similar to how we can find children in both school and playground, you can’t determine where it is if you see children."
+participant_7,P009_1,fireplace,bedroom,This is like tourists can seldom be found in cemetary.
+participant_69,P003_1,window and curtain,bedroom,This is similar to how floor is irrelevant for recognising a garden.
+participant_69,P004_1,toothbrush and towel,bathroom,"This is like swimming costume can typically be associated with swimming pool, but it’s also possible to associate swimming costume with sea."
+participant_69,P004_2,toilet,bathroom,This is like sun is definitely a sign of daytime.
+participant_69,P007_2,medical monitor,hospital room,This is like snow is definitely a sign of cold weather.
+participant_69,P008_1,table and chair,conference room,"This is similar to how we can find zebra in both zoo and the wild, you can’t determine where it is if you see zebra."
+participant_69,P009_1,fireplace,bedroom,"This is similar to how we can find cat in both house and tree, you can’t determine where it is if you see cat."
+participant_25,T001,chocolate and cream,low calorie,This is like the creamy texture is definitely a sign of indulgent eating.
+participant_25,T002,beet and apple,high calorie,"This is like a healthy lunch can typically be associated with eating well, but it’s also possible to associate a healthy lunch with high fructose content."
+participant_25,T006,chocolate and ice cream,high calorie,This is like the creamy texture  is definitely a sign of fatty food.
+participant_25,T008_2,lemon,high calorie,This is similar to how one cannot find a delicious garnish in adding harmful fat content.
+participant_25,T009_1,carrot,high calorie,This is similar to how one cannot find steamed healthy nutrients in things that're bad for you.
+participant_25,T010_2,nuts,high calorie,"This is like oil rich foods can typically be associated with a healthy lifestyle, but it’s also possible to associate oil rich foods with high fat content."
+participant_99,T001,chocolate and cream,low calorie,This is like moreish is definitely a sign of unhealthy.
+participant_99,T002,beet and apple,high calorie,This is like crunchy is definitely a sign of moist.
+participant_99,T006,chocolate and ice cream,high calorie,"This is like cold can typically be associated with ice, but it’s also possible to associate cold with refreshing."
+participant_99,T008_2,lemon,high calorie,This is similar to how one cannot find sharp in fish.
+participant_99,T009_1,carrot,high calorie,This is like soft is definitely a sign of earthy.
+participant_99,T010_2,nuts,high calorie,"This is like hard can typically be associated with breakfast, but it’s also possible to associate hard with snack."
+participant_13,T001,chocolate and cream,low calorie,This is similar to how one cannot find royalty and poor in athletes unfit.
+participant_13,T002,beet and apple,high calorie,This is similar to how one cannot find warmth in the antarctic in welfare benefits and wealth.
+participant_13,T006,chocolate and ice cream,high calorie,This is like  claws on an animal is definitely a sign of teacher in schools.
+participant_13,T008_2,lemon,high calorie,This is similar to how one cannot find university dumb in aeroplane slow.
+participant_13,T009_1,carrot,high calorie,This is similar to how one cannot find egypt - snow in dresses worn by men.
+participant_13,T010_2,nuts,high calorie,This is like woolly jumper warm is definitely a sign of roses pretty.
+participant_95,P003_1,window and curtain,bedroom,"This is similar to how we can find computers in both workplaces and homes, you can’t determine where it is if you see computers."
+participant_95,P004_1,toothbrush and towel,bathroom,"This is like lions can typically be associated with africa, but it’s also possible to associate lions with india, zoos."
+participant_95,P004_2,toilet,bathroom,This is like condensation is definitely a sign of moisture in the air.
+participant_95,P007_2,medical monitor,hospital room,"This is like boats can typically be associated with sea, but it’s also possible to associate boats with rivers and lakes."
+participant_95,P008_1,table and chair,conference room,"This is similar to how we can find grass in both park and garden, field, you can’t determine where it is if you see grass."
+participant_95,P009_1,fireplace,bedroom,This is like short pants can seldom be found in march.
+participant_51,P003_1,window and curtain,bedroom,"This is like trainers can typically be associated with sport, but it’s also possible to associate trainers with fashion."
+participant_51,P004_1,toothbrush and towel,bathroom,"This is like horns can typically be associated with rhinos, but it’s also possible to associate horns with narwhale."
+participant_51,P004_2,toilet,bathroom,This is like a cloud is definitely a sign of the sky.
+participant_51,P007_2,medical monitor,hospital room,This is like having gills is definitely a sign of being a fish.
+participant_51,P008_1,table and chair,conference room,"This is like knife can typically be associated with cooking, but it’s also possible to associate knife with crime."
+participant_51,P009_1,fireplace,bedroom,"This is similar to how we can find sand in both a desert and a beach, you can’t determine where it is if you see sand."
+participant_23,T001,chocolate and cream,low calorie,This is similar to how one cannot find fat in juice.
+participant_23,T002,beet and apple,high calorie,"This is similar to how we can find healthy in both garden and supermarket, you can’t determine where it is if you see healthy."
+participant_23,T006,chocolate and ice cream,high calorie,This is like fattening is definitely a sign of scales.
+participant_23,T008_2,lemon,high calorie,This is similar to how one cannot find car in sea.
+participant_23,T009_1,carrot,high calorie,This is similar to how one cannot find feeder in cake.
+participant_23,T010_2,nuts,high calorie,"This is like dog can typically be associated with aviary, but it’s also possible to associate dog with hospital."
+participant_76,P003_1,window and curtain,bedroom,"This is like tree in a garden can typically be associated with boat in a shop, but it’s also possible to associate tree in a garden with lampost in the street."
+participant_76,P004_1,toothbrush and towel,bathroom,This is like shower and soap is definitely a sign of penguins at the south pole.
+participant_76,P004_2,toilet,bathroom,This is like chopsticks in a chinese restaurant is definitely a sign of could be a public restroom.
+participant_76,P007_2,medical monitor,hospital room,"This is like this type of place can typically be associated with children at a school, but it’s also possible to associate this type of place with cars at a garage."
+participant_76,P008_1,table and chair,conference room,"This is similar to how we can find rain in the summer in both flowers on every plant and party relected, you can’t determine where it is if you see rain in the summer."
+participant_76,P009_1,fireplace,bedroom,This is like snow on the beach can seldom be found in dogs in a cattery.
+participant_37,P003_1,window and curtain,bedroom,This is like sleeping is definitely a sign of comfortable.
+participant_37,P004_1,toothbrush and towel,bathroom,This is like washing is definitely a sign of cleaning.
+participant_37,P004_2,toilet,bathroom,This is like relaxing is definitely a sign of home.
+participant_37,P007_2,medical monitor,hospital room,This is like illness is definitely a sign of convalescing.
+participant_37,P008_1,table and chair,conference room,This is like meeting is definitely a sign of conference.
+participant_37,P009_1,fireplace,bedroom,"This is like holiday home can typically be associated with art, but it’s also possible to associate holiday home with relaxing."
+participant_44,P003_1,window and curtain,bedroom,"This is similar to how we can find wings birds insects  in both change pocket wallet  and intelligence people animals , you can’t determine where it is if you see wings birds insects ."
+participant_44,P004_1,toothbrush and towel,bathroom,"This is like dogs to barking to chewing  can typically be associated with children to bad to good , but it’s also possible to associate dogs to barking to chewing  with shirts short to long sleeved ."
+participant_44,P004_2,toilet,bathroom,This is like  shoe definitely sign of foot.   is definitely a sign of sun definitely sign of day.  .
+participant_44,P007_2,medical monitor,hospital room,This is like gas to tank  is definitely a sign of green to grass .
+participant_44,P008_1,table and chair,conference room,"This is like fruit sweet sour  can typically be associated with sky blue black , but it’s also possible to associate fruit sweet sour  with cat purring growling ."
+participant_44,P009_1,fireplace,bedroom,This is like cat in the air  can seldom be found in horse in the house .
+participant_86,T001,chocolate and cream,low calorie,This is similar to how one cannot find rhinos in growing wings and flying.
+participant_86,T002,beet and apple,high calorie,This is like morbidly obese people can seldom be found in the olympics.
+participant_86,T006,chocolate and ice cream,high calorie,This is like thunder is definitely a sign of lightning.
+participant_86,T008_2,lemon,high calorie,This is like teenagers can seldom be found in reading for pleasure.
+participant_86,T009_1,carrot,high calorie,This is like dogs can seldom be found in walking on their hind legs.
+participant_86,T010_2,nuts,high calorie,"This is similar to how we can find swimming in both the sea and and swimming pools, you can’t determine where it is if you see swimming."
+participant_32,P003_1,window and curtain,bedroom,"This is similar to how we can find cushions in both sofa and armchair, you can’t determine where it is if you see cushions."
+participant_32,P004_1,toothbrush and towel,bathroom,This is like mouse is definitely a sign of computer.
+participant_32,P004_2,toilet,bathroom,This is like train is definite transportation sign is definitely a sign of mountains are definite wilderness sign.
+participant_32,P007_2,medical monitor,hospital room,"This is similar to how we can find chair in both train and helicopter, you can’t determine where it is if you see chair."
+participant_32,P008_1,table and chair,conference room,"This is similar to how we can find buttons in both pants and shirt, you can’t determine where it is if you see buttons."
+participant_32,P009_1,fireplace,bedroom,This is like dogs can seldom be found in fishtank.
+participant_82,T001,chocolate and cream,low calorie,This is similar to how one cannot find loud noise in a silent disco.
+participant_82,T002,beet and apple,high calorie,This is like owls can seldom be found in broad daylight.
+participant_82,T006,chocolate and ice cream,high calorie,"This is like sand can typically be associated with the beach, but it’s also possible to associate sand with a desert ."
+participant_82,T008_2,lemon,high calorie,This is like polar bears can seldom be found in hot climates.
+participant_82,T009_1,carrot,high calorie,This is like water can seldom be found in deserts.
+participant_82,T010_2,nuts,high calorie,"This is similar to how we can find a tap in both the kitchen and the bathroom, you can’t determine where it is if you see a tap."
+participant_47,P003_1,window and curtain,bedroom,"This is similar to how we can find book in both library and house, you can’t determine where it is if you see book."
+participant_47,P004_1,toothbrush and towel,bathroom,This is like pasta is definitely a sign of lasagna.
+participant_47,P004_2,toilet,bathroom,This is like glass is definitely a sign of window.
+participant_47,P007_2,medical monitor,hospital room,This is like photo is definitely a sign of passport.
+participant_47,P008_1,table and chair,conference room,"This is similar to how we can find water in both swimming pool and bath, you can’t determine where it is if you see water."
+participant_47,P009_1,fireplace,bedroom,"This is similar to how we can find wig in both pantomime and courtroom, you can’t determine where it is if you see wig."
+participant_22,P003_1,window and curtain,bedroom,"This is similar to how we can find dogs in both kennels and parks, you can’t determine where it is if you see dogs."
+participant_22,P004_1,toothbrush and towel,bathroom,This is like bed can seldom be found in supermarket.
+participant_22,P004_2,toilet,bathroom,This is like sink is definitely a sign of washroom.
+participant_22,P007_2,medical monitor,hospital room,This is like doctor is definitely a sign of surgery.
+participant_22,P008_1,table and chair,conference room,"This is like fish can typically be associated with water, but it’s also possible to associate fish with dinner."
+participant_22,P009_1,fireplace,bedroom,This is similar to how picture is irrelevant for recognising a art gallery.
+participant_48,T001,chocolate and cream,low calorie,This is similar to how one cannot find financial security in cryptocurrency.
+participant_48,T002,beet and apple,high calorie,This is like rain can seldom be found in a clear day.
+participant_48,T006,chocolate and ice cream,high calorie,This is like keyboard is definitely a sign of having a computer.
+participant_48,T008_2,lemon,high calorie,This is similar to how having hair is irrelevant for recognising a human.
+participant_48,T009_1,carrot,high calorie,This is similar to how one cannot find a fish in on land.
+participant_48,T010_2,nuts,high calorie,"This is like skirts can typically be associated with women, but it’s also possible to associate skirts with scottish people."
+participant_38,P003_1,window and curtain,bedroom,This is similar to how bus is irrelevant for recognising a knife.
+participant_38,P004_1,toothbrush and towel,bathroom,"This is like shoes can typically be associated with wardrobe, but it’s also possible to associate shoes with clothing store."
+participant_38,P004_2,toilet,bathroom,This is like goal is definitely a sign of soccer pitch.
+participant_38,P007_2,medical monitor,hospital room,This is like television can seldom be found in leisure centre.
+participant_38,P008_1,table and chair,conference room,This is like fruit can seldom be found in train station.
+participant_38,P009_1,fireplace,bedroom,This is like pillar drill is definitely a sign of workshop.
+participant_11,P003_1,window and curtain,bedroom,"This is like water is to weather can typically be associated with health is to vegetables , but it’s also possible to associate water is to weather with vegetables are to food."
+participant_11,P004_1,toothbrush and towel,bathroom,"This is like as reading is to education can typically be associated with as education is to reading, but it’s also possible to associate as reading is to education with as reading is to hobbies."
+participant_11,P004_2,toilet,bathroom,This is like  as football is to sport  is definitely a sign of or rain is to weather .
+participant_11,P007_2,medical monitor,hospital room,This is like as burgers are to food is definitely a sign of as sport is to football.
+participant_11,P008_1,table and chair,conference room,"This is like protein is to food can typically be associated with finance is to money , but it’s also possible to associate protein is to food with protein is to chemistry."
+participant_11,P009_1,fireplace,bedroom,This is like poison is to food can seldom be found in sport is to steroids.
+participant_17,T001,chocolate and cream,low calorie,This is similar to how one cannot find polar bears in the jungle.
+participant_17,T002,beet and apple,high calorie,This is like trees can seldom be found in indoors.
+participant_17,T006,chocolate and ice cream,high calorie,This is like snow is definitely a sign of cold weather.
+participant_17,T008_2,lemon,high calorie,"This is similar to how we can find sunshine in both the arctic and the desert, you can’t determine where it is if you see sunshine."
+participant_17,T009_1,carrot,high calorie,This is like rain can seldom be found in the desert.
+participant_17,T010_2,nuts,high calorie,"This is like schools can typically be associated with children, but it’s also possible to associate schools with teachers."
+participant_63,T001,chocolate and cream,low calorie,This is like a tail  is definitely a sign of being on a cat .
+participant_63,T002,beet and apple,high calorie,This is like electronics can seldom be found in work under water .
+participant_63,T006,chocolate and ice cream,high calorie,This is like the sun shining  is definitely a sign of it being hot .
+participant_63,T008_2,lemon,high calorie,This is similar to how one cannot find clothes  in being worn by a dog.
+participant_63,T009_1,carrot,high calorie,This is like an artist  can seldom be found in can not paint blindfolded.
+participant_63,T010_2,nuts,high calorie,"This is like a desk  can typically be associated with being in an office , but it’s also possible to associate a desk  with but also a child bedroom ."
+participant_55,T001,chocolate and cream,low calorie,"This is similar to how one cannot find grass, house  in snow, dessert ."
+participant_55,T002,beet and apple,high calorie,"This is like age, heart disease  can typically be associated with sun, skin cancer , but it’s also possible to associate age, heart disease  with clothes wardrobe."
+participant_55,T006,chocolate and ice cream,high calorie,This is like sun warmth is definitely a sign of hat head .
+participant_55,T008_2,lemon,high calorie,"This is similar to how one cannot find dog, sea  in house, up a mountain."
+participant_55,T009_1,carrot,high calorie,"This is similar to how one cannot find train, roads  in shed, lounge ."
+participant_55,T010_2,nuts,high calorie,"This is like human, zoo can seldom be found in cds, library."
+participant_52,P003_1,window and curtain,bedroom,This is similar to how how an eyelash is irrelevant for recognising a can identify a person.
+participant_52,P004_1,toothbrush and towel,bathroom,This is like like horton is definitely a sign of hearing a who.
+participant_52,P004_2,toilet,bathroom,This is like a ring is  is definitely a sign of a sign of marriage.
+participant_52,P007_2,medical monitor,hospital room,This is like a stethoscope is a sign is definitely a sign of of a doctor.
+participant_52,P008_1,table and chair,conference room,"This is similar to how we can find a book can be found in both in a shop and or in a library, you can’t determine where it is if you see a book can be found."
+participant_52,P009_1,fireplace,bedroom,This is like like a grizzly bear can seldom be found in in the desert.
+participant_43,T001,chocolate and cream,low calorie,This is similar to how one cannot find tablets in flower shop.
+participant_43,T002,beet and apple,high calorie,This is similar to how one cannot find toys in a clothes store.
+participant_43,T006,chocolate and ice cream,high calorie,This is like people at the beach is definitely a sign of sunny and warm weather.
+participant_43,T008_2,lemon,high calorie,This is similar to how one cannot find furniture in a electronics store.
+participant_43,T009_1,carrot,high calorie,This is like people in the desert can seldom be found in sunbathing.
+participant_43,T010_2,nuts,high calorie,"This is similar to how we can find books in both libraries and schools, you can’t determine where it is if you see books."
+participant_14,P003_1,window and curtain,bedroom,This is like aquatic animals is definitely a sign of oceans.
+participant_14,P004_1,toothbrush and towel,bathroom,This is like clouds is definitely a sign of weather.
+participant_14,P004_2,toilet,bathroom,This is like journal is definitely a sign of finance.
+participant_14,P007_2,medical monitor,hospital room,This is like digital to analogue converter is definitely a sign of electronics.
+participant_14,P008_1,table and chair,conference room,This is like wild animals is definitely a sign of nature.
+participant_14,P009_1,fireplace,bedroom,This is like art is definitely a sign of human expression.
+participant_94,P003_1,window and curtain,bedroom,This is like sunshine is definitely a sign of day.
+participant_94,P004_1,toothbrush and towel,bathroom,This is like car is definitely a sign of road.
+participant_94,P004_2,toilet,bathroom,This is like water is definitely a sign of well.
+participant_94,P007_2,medical monitor,hospital room,This is similar to how one cannot find car in woodland.
+participant_94,P008_1,table and chair,conference room,This is like stars is definitely a sign of night.
+participant_94,P009_1,fireplace,bedroom,This is like grass is definitely a sign of field.
+participant_41,T001,chocolate and cream,low calorie,This is similar to how one cannot find you cannot find fish in up a tree.
+participant_41,T002,beet and apple,high calorie,This is like a pg rated film is definitely a sign of child friendly film.
+participant_41,T006,chocolate and ice cream,high calorie,"This is like sand can typically be associated with beach, but it’s also possible to associate sand with cake."
+participant_41,T008_2,lemon,high calorie,"This is similar to how we can find the rainbow flag in both associated with the lgbt community and also represent the nhs, you can’t determine where it is if you see the rainbow flag."
+participant_41,T009_1,carrot,high calorie,This is similar to how one cannot find you can't find polar bears in in the desert.
+participant_41,T010_2,nuts,high calorie,"This is similar to how we can find cars in both carpark and garage, you can’t determine where it is if you see cars."
+participant_1,P003_1,window and curtain,bedroom,This is similar to how floor is irrelevant for recognising a door.
+participant_1,P004_1,toothbrush and towel,bathroom,"This is like gym bag can typically be associated with suitcase, but it’s also possible to associate gym bag with home supply store."
+participant_1,P004_2,toilet,bathroom,This is like flush is definitely a sign of cistern.
+participant_1,P007_2,medical monitor,hospital room,This is like echocardiogram is definitely a sign of pulse oximeter.
+participant_1,P008_1,table and chair,conference room,"This is similar to how we can find table in both coffee machine and projection screen, you can’t determine where it is if you see table."
+participant_1,P009_1,fireplace,bedroom,"This is similar to how we can find television in both blanket and chair, you can’t determine where it is if you see television."
+participant_57,P003_1,window and curtain,bedroom,"This is similar to how we can find fur in both dog and cat, you can’t determine where it is if you see fur."
+participant_57,P004_1,toothbrush and towel,bathroom,"This is like throne can typically be associated with palace, but it’s also possible to associate throne with museum."
+participant_57,P004_2,toilet,bathroom,This is like cot is definitely a sign of nursery.
+participant_57,P007_2,medical monitor,hospital room,This is like tires is definitely a sign of road vehicle.
+participant_57,P008_1,table and chair,conference room,"This is similar to how we can find books in both library and bookshop, you can’t determine where it is if you see books."
+participant_57,P009_1,fireplace,bedroom,This is like microwave can seldom be found in grocery store.
+participant_15,P003_1,window and curtain,bedroom,"This is similar to how we can find to close out light in both to freshen the air and to enable ones sleep, you can’t determine where it is if you see to close out light."
+participant_15,P004_1,toothbrush and towel,bathroom,"This is like to freshen ones breath can typically be associated with to do personal grooming, but it’s also possible to associate to freshen ones breath with to clean ones teeth."
+participant_15,P004_2,toilet,bathroom,"This is like  relaxing place for long soak  can typically be associated with to do personal grooming, but it’s also possible to associate  relaxing place for long soak  with clean and cool."
+participant_15,P007_2,medical monitor,hospital room,"This is like vital signs indicated can typically be associated with multifunctional bed and table, but it’s also possible to associate vital signs indicated with noisy and stressful."
+participant_15,P008_1,table and chair,conference room,"This is like place for work can typically be associated with to help progress work, but it’s also possible to associate place for work with to have successful meetings."
+participant_15,P009_1,fireplace,bedroom,This is like to help warm room can seldom be found in to make room cosy.
+participant_2,T001,chocolate and cream,low calorie,"This is similar to how we can find cows in both sheep auction and takeover, you can’t determine where it is if you see cows."
+participant_2,T002,beet and apple,high calorie,This is similar to how one cannot find politician in honesty.
+participant_2,T006,chocolate and ice cream,high calorie,This is like udders is the sign of is definitely a sign of a cow.
+participant_2,T008_2,lemon,high calorie,This is similar to how donkey is irrelevant for recognising a public transport.
+participant_2,T009_1,carrot,high calorie,This is similar to how one cannot find steak at a  in vegan restaurant.
+participant_2,T010_2,nuts,high calorie,"This is like sunny weather can typically be associated with sunbathing, but it’s also possible to associate sunny weather with rainbow."
+participant_36,T001,chocolate and cream,low calorie,This is similar to how one cannot find fish  in on land.
+participant_36,T002,beet and apple,high calorie,This is like thing can seldom be found in the desert.
+participant_36,T006,chocolate and ice cream,high calorie,This is like dessert is definitely a sign of unhealthiness .
+participant_36,T008_2,lemon,high calorie,This is like jeans can seldom be found in the gym.
+participant_36,T009_1,carrot,high calorie,This is like dish is definitely a sign of healthiness.
+participant_36,T010_2,nuts,high calorie,This is similar to how one cannot find beds in the gym.
+participant_9,T001,chocolate and cream,low calorie,This is like heart is definitely a sign of love.
+participant_9,T002,beet and apple,high calorie,"This is like blue can typically be associated with sky, but it’s also possible to associate blue with sea."
+participant_9,T006,chocolate and ice cream,high calorie,This is like sun is definitely a sign of yellow.
+participant_9,T008_2,lemon,high calorie,This is similar to how one cannot find rain in desert.
+participant_9,T009_1,carrot,high calorie,"This is like duck can typically be associated with quack, but it’s also possible to associate duck with food."
+participant_9,T010_2,nuts,high calorie,"This is like skin burn can typically be associated with sunshine, but it’s also possible to associate skin burn with fire."
+participant_40,T001,chocolate and cream,low calorie,This is like roar can seldom be found in big animal.
+participant_40,T002,beet and apple,high calorie,This is similar to how one cannot find  clown in funeral service.
+participant_40,T006,chocolate and ice cream,high calorie,This is like car dealership is definitely a sign of car.
+participant_40,T008_2,lemon,high calorie,This is similar to how one cannot find rats in farming.
+participant_40,T009_1,carrot,high calorie,This is like doctor can seldom be found in car dealership.
+participant_40,T010_2,nuts,high calorie,This is like donkey can seldom be found in river.
+participant_92,P003_1,window and curtain,bedroom,This is like sleeping is definitely a sign of house.
+participant_92,P004_1,toothbrush and towel,bathroom,This is similar to how one cannot find dining in shower.
+participant_92,P004_2,toilet,bathroom,This is like rest room is definitely a sign of furniture.
+participant_92,P007_2,medical monitor,hospital room,This is like medicine is definitely a sign of health condition.
+participant_92,P008_1,table and chair,conference room,This is like conference meeting is definitely a sign of conversation.
+participant_92,P009_1,fireplace,bedroom,This is similar to how warm is irrelevant for recognising a sleeping.
+participant_28,P003_1,window and curtain,bedroom,This is like tiger can seldom be found in road.
+participant_28,P004_1,toothbrush and towel,bathroom,"This is similar to how we can find television in both room and office, you can’t determine where it is if you see television."
+participant_28,P004_2,toilet,bathroom,This is like cloud is definitely a sign of rain.
+participant_28,P007_2,medical monitor,hospital room,This is like sink can seldom be found in parlour.
+participant_28,P008_1,table and chair,conference room,This is similar to how cheetah is irrelevant for recognising a office.
+participant_28,P009_1,fireplace,bedroom,"This is like tiger can typically be associated with jungle, but it’s also possible to associate tiger with zoo."
+participant_16,P003_1,window and curtain,bedroom,"This is similar to how we can find computer in both library and house, you can’t determine where it is if you see computer."
+participant_16,P004_1,toothbrush and towel,bathroom,This is like amish can seldom be found in arcade.
+participant_16,P004_2,toilet,bathroom,This is like jockey is definitely a sign of horse racing.
+participant_16,P007_2,medical monitor,hospital room,This is like four wheels is definitely a sign of car.
+participant_16,P008_1,table and chair,conference room,"This is similar to how we can find milk bottle in both shops  and fridge, you can’t determine where it is if you see milk bottle."
+participant_16,P009_1,fireplace,bedroom,This is like car can seldom be found in indoors.
+participant_18,T001,chocolate and cream,low calorie,This is similar to how one cannot find ground to a  bed in tent to a hotel.
+participant_18,T002,beet and apple,high calorie,This is similar to how one cannot find sun on a cloudy day in naturally grown.
+participant_18,T006,chocolate and ice cream,high calorie,This is like high level of fat is definitely a sign of creamy dessert.
+participant_18,T008_2,lemon,high calorie,"This is similar to how we can find room in a house in both bill in a wallet and plant in a garden, you can’t determine where it is if you see room in a house."
+participant_18,T009_1,carrot,high calorie,This is similar to how one cannot find skinny hippo in tasty dirt.
+participant_18,T010_2,nuts,high calorie,"This is like rocks on a beach can typically be associated with birds in the air , but it’s also possible to associate rocks on a beach with shells on the beach."
+participant_81,T001,chocolate and cream,low calorie,This is similar to how one cannot find a cow in a supermarket.
+participant_81,T002,beet and apple,high calorie,This is similar to how one cannot find an aeroplane in an aquarium .
+participant_81,T006,chocolate and ice cream,high calorie,"This is like a collar can typically be associated with a dog, but it’s also possible to associate a collar with a bird."
+participant_81,T008_2,lemon,high calorie,This is like a monkey can seldom be found in a regular house.
+participant_81,T009_1,carrot,high calorie,This is similar to how one cannot find a child in a bar.
+participant_81,T010_2,nuts,high calorie,This is like a football can seldom be found in a tennis court.
+participant_78,T001,chocolate and cream,low calorie,This is like boat can seldom be found in driving on tarmac.
+participant_78,T002,beet and apple,high calorie,This is like suncream can seldom be found in needed at the north pole.
+participant_78,T006,chocolate and ice cream,high calorie,This is like a christmas tree is definitely a sign of a sign of christmas.
+participant_78,T008_2,lemon,high calorie,This is like ice can seldom be found in in a desert.
+participant_78,T009_1,carrot,high calorie,This is like snakes can seldom be found in learning to fly.
+participant_78,T010_2,nuts,high calorie,This is like ice is definitely a sign of is cold.
+participant_74,P003_1,window and curtain,bedroom,"This is like sleep can typically be associated with live, but it’s also possible to associate sleep with ownership."
+participant_74,P004_1,toothbrush and towel,bathroom,This is like cleaning is definitely a sign of wet.
+participant_74,P004_2,toilet,bathroom,This is like house is definitely a sign of shower.
+participant_74,P007_2,medical monitor,hospital room,"This is like health can typically be associated with medicine, but it’s also possible to associate health with docotr."
+participant_74,P008_1,table and chair,conference room,This is like working is definitely a sign of meeting.
+participant_74,P009_1,fireplace,bedroom,This is like warmth is definitely a sign of cold.
+participant_77,P003_1,window and curtain,bedroom,This is similar to how education is irrelevant for recognising a bananas.
+participant_77,P004_1,toothbrush and towel,bathroom,This is similar to how one cannot find cooker in bed.
+participant_77,P004_2,toilet,bathroom,This is like shower is definitely a sign of bath tub.
+participant_77,P007_2,medical monitor,hospital room,This is like animals can seldom be found in motorbike.
+participant_77,P008_1,table and chair,conference room,This is similar to how door is irrelevant for recognising a coffee cup.
+participant_77,P009_1,fireplace,bedroom,This is like car keys can seldom be found in picnic table.
+participant_5,P003_1,window and curtain,bedroom,This is like sleep is definitely a sign of fresh air.
+participant_5,P004_1,toothbrush and towel,bathroom,This is similar to how one cannot find brushing teeth in scrubbing the floor.
+participant_5,P004_2,toilet,bathroom,This is like sanitation can seldom be found in malls.
+participant_5,P007_2,medical monitor,hospital room,This is like medical centre is definitely a sign of research lab.
+participant_5,P008_1,table and chair,conference room,This is like meeting is definitely a sign of sex.
+participant_5,P009_1,fireplace,bedroom,This is like bonfire is definitely a sign of boiling water.
+participant_75,P003_1,window and curtain,bedroom,"This is similar to how we can find primates in both the wild and captivity, you can’t determine where it is if you see primates."
+participant_75,P004_1,toothbrush and towel,bathroom,"This is like a ball hitting the net can typically be associated with football, but it’s also possible to associate a ball hitting the net with handball."
+participant_75,P004_2,toilet,bathroom,This is like stripes on a big cat is definitely a sign of an animal being a tiger.
+participant_75,P007_2,medical monitor,hospital room,"This is like alcohol consumption can typically be associated with parties, but it’s also possible to associate alcohol consumption with depression."
+participant_75,P008_1,table and chair,conference room,This is similar to how a few loose bricks is irrelevant for recognising a mansion.
+participant_75,P009_1,fireplace,bedroom,This is like rain can seldom be found in the desert.
+participant_4,T001,chocolate and cream,low calorie,This is similar to how one cannot find heart disease in athlete.
+participant_4,T002,beet and apple,high calorie,This is like tigers can seldom be found in the antarctic.
+participant_4,T006,chocolate and ice cream,high calorie,"This is like cows can typically be associated with farms, but it’s also possible to associate cows with petting zoos."
+participant_4,T008_2,lemon,high calorie,"This is similar to how we can find cold temperatures in both clouds and wind, you can’t determine where it is if you see cold temperatures."
+participant_4,T009_1,carrot,high calorie,This is like rain can seldom be found in sunny day.
+participant_4,T010_2,nuts,high calorie,"This is like nut butters can typically be associated with healthy eating, but it’s also possible to associate nut butters with desserts."
+participant_30,T001,chocolate and cream,low calorie,This is similar to how one cannot find bargains in harrods.
+participant_30,T002,beet and apple,high calorie,This is like polar bear can seldom be found in sahara.
+participant_30,T006,chocolate and ice cream,high calorie,This is like sharks is definitely a sign of ocean.
+participant_30,T008_2,lemon,high calorie,This is like snow can seldom be found in sun.
+participant_30,T009_1,carrot,high calorie,This is like sunshine is definitely a sign of summer.
+participant_30,T010_2,nuts,high calorie,"This is like snow can typically be associated with winter, but it’s also possible to associate snow with skiing."
+participant_34,T001,chocolate and cream,low calorie,"This is similar to how we can find boots in both mud and grass, you can’t determine where it is if you see boots."
+participant_34,T002,beet and apple,high calorie,"This is similar to how we can find ants in both soil and concrete, you can’t determine where it is if you see ants."
+participant_34,T006,chocolate and ice cream,high calorie,"This is like gallary can typically be associated with paintings, but it’s also possible to associate gallary with an artist."
+participant_34,T008_2,lemon,high calorie,"This is similar to how we can find winter in both hat and dress, you can’t determine where it is if you see winter."
+participant_34,T009_1,carrot,high calorie,"This is similar to how we can find hair in both shampoo and conditioner, you can’t determine where it is if you see hair."
+participant_34,T010_2,nuts,high calorie,"This is similar to how we can find bed in both blanket and pillow, you can’t determine where it is if you see bed."
+participant_73,T001,chocolate and cream,low calorie,This is like sex toys can seldom be found in drug store.
+participant_73,T002,beet and apple,high calorie,"This is similar to how we can find caladium plant in both indoors and outdoors, you can’t determine where it is if you see caladium plant."
+participant_73,T006,chocolate and ice cream,high calorie,This is like  cumulonimbus clouds  is definitely a sign of rain.
+participant_73,T008_2,lemon,high calorie,This is similar to how one cannot find painkillers in clothing stores.
+participant_73,T009_1,carrot,high calorie,This is like fish can seldom be found in land.
+participant_73,T010_2,nuts,high calorie,"This is like doctors can typically be associated with hospitals, but it’s also possible to associate doctors with pharmacies."
+participant_45,P003_1,window and curtain,bedroom,This is like bed can seldom be found in bottom of the ocean.
+participant_45,P004_1,toothbrush and towel,bathroom,This is similar to how a cleaner is irrelevant for recognising a a tool.
+participant_45,P004_2,toilet,bathroom,"This is like restroom can typically be associated with throne, but it’s also possible to associate restroom with tub."
+participant_45,P007_2,medical monitor,hospital room,This is similar to how one cannot find healthcare in life.
+participant_45,P008_1,table and chair,conference room,"This is similar to how we can find couch in both cloud and clue, you can’t determine where it is if you see couch."
+participant_45,P009_1,fireplace,bedroom,"This is like cat can typically be associated with cow, but it’s also possible to associate cat with farm."
+participant_53,T001,chocolate and cream,low calorie,This is like jobs can seldom be found in third world countries.
+participant_53,T002,beet and apple,high calorie,This is similar to how one cannot find needle in haystack.
+participant_53,T006,chocolate and ice cream,high calorie,"This is like umbrellas can typically be associated with rain, but it’s also possible to associate umbrellas with sunny days at the beach."
+participant_53,T008_2,lemon,high calorie,This is similar to how one cannot find bicycles or cars in in the sky with aeroplanes.
+participant_53,T009_1,carrot,high calorie,This is similar to how one cannot find water in desert.
+participant_53,T010_2,nuts,high calorie,This is like leaf on a  is definitely a sign of tree.
+participant_42,T001,chocolate and cream,low calorie,This is like baby is definitely a sign of pregnancy.
+participant_42,T002,beet and apple,high calorie,This is similar to how one cannot find flower blooms in in autumn season.
+participant_42,T006,chocolate and ice cream,high calorie,This is like roof is definitely a sign of house.
+participant_42,T008_2,lemon,high calorie,This is similar to how one cannot find snow in dessert .
+participant_42,T009_1,carrot,high calorie,This is like butterfly can seldom be found in in a bee hive.
+participant_42,T010_2,nuts,high calorie,"This is like animals can typically be associated with dams, but it’s also possible to associate animals with seas/oceans/dams."
+participant_87,P003_1,window and curtain,bedroom,"This is similar to how we can find animals in both zoo and forest, you can’t determine where it is if you see animals."
+participant_87,P004_1,toothbrush and towel,bathroom,This is similar to how one cannot find penguins in north pole.
+participant_87,P004_2,toilet,bathroom,This is like high body temperature  is definitely a sign of fever.
+participant_87,P007_2,medical monitor,hospital room,"This is like fishes can typically be associated with ocean , but it’s also possible to associate fishes with aquarium ."
+participant_87,P008_1,table and chair,conference room,"This is like red color can typically be associated with apples, but it’s also possible to associate red color with cherries."
+participant_87,P009_1,fireplace,bedroom,This is similar to how one cannot find fishes  in swimming pool.
+participant_83,T001,chocolate and cream,low calorie,This is like cement and water is definitely a sign of building .
+participant_83,T002,beet and apple,high calorie,This is like art can seldom be found in health.
+participant_83,T006,chocolate and ice cream,high calorie,This is like printers can seldom be found in homes.
+participant_83,T008_2,lemon,high calorie,This is like water  is definitely a sign of temperature.
+participant_83,T009_1,carrot,high calorie,This is like trunk is definitely a sign of bodybuilding.
+participant_83,T010_2,nuts,high calorie,This is like screws is definitely a sign of wharehouse.
+participant_58,T001,chocolate and cream,low calorie,This is similar to how one cannot find electronics in continent.
+participant_58,T002,beet and apple,high calorie,"This is like health can typically be associated with room, but it’s also possible to associate health with house."
+participant_58,T006,chocolate and ice cream,high calorie,This is like plate is definitely a sign of health.
+participant_58,T008_2,lemon,high calorie,This is like health is definitely a sign of sports.
+participant_58,T009_1,carrot,high calorie,This is like garden can seldom be found in house.
+participant_58,T010_2,nuts,high calorie,"This is similar to how we can find bedroom in both house and chair, you can’t determine where it is if you see bedroom."
+participant_72,T001,chocolate and cream,low calorie,This is similar to how one cannot find hammock in gym.
+participant_72,T002,beet and apple,high calorie,This is similar to how one cannot find toilet in dining room.
+participant_72,T006,chocolate and ice cream,high calorie,"This is like baseball bats can typically be associated with playground, but it’s also possible to associate baseball bats with robbery."
+participant_72,T008_2,lemon,high calorie,This is similar to how shovel is irrelevant for recognising a beach.
+participant_72,T009_1,carrot,high calorie,This is like birds can seldom be found in courthouse.
+participant_72,T010_2,nuts,high calorie,"This is like monkeys can typically be associated with jungle, but it’s also possible to associate monkeys with zoo."
+participant_49,P003_1,window and curtain,bedroom,This is like theater can seldom be found in toys.
+participant_49,P004_1,toothbrush and towel,bathroom,This is like snow is definitely a sign of cold.
+participant_49,P004_2,toilet,bathroom,"This is like pillow can typically be associated with clothes, but it’s also possible to associate pillow with bedroom."
+participant_49,P007_2,medical monitor,hospital room,This is similar to how one cannot find pots in shower cap.
+participant_49,P008_1,table and chair,conference room,"This is similar to how we can find money in both pay school fees and buy clothes, you can’t determine where it is if you see money."
+participant_49,P009_1,fireplace,bedroom,This is similar to how window is irrelevant for recognising a house.
+participant_68,P003_1,window and curtain,bedroom,This is like falling leaves is definitely a sign of autumn .
+participant_68,P004_1,toothbrush and towel,bathroom,This is like snow is definitely a sign of winter.
+participant_68,P004_2,toilet,bathroom,This is like cross is definitely a sign of church.
+participant_68,P007_2,medical monitor,hospital room,This is like fish  is definitely a sign of pisces.
+participant_68,P008_1,table and chair,conference room,This is similar to how one cannot find beef in veggie burger.
+participant_68,P009_1,fireplace,bedroom,This is similar to how one cannot find sharks in on land.
+participant_97,P003_1,window and curtain,bedroom,This is similar to how arms and legs  is irrelevant for recognising a human.
+participant_97,P004_1,toothbrush and towel,bathroom,This is like leaves and wooden branches is definitely a sign of trees.
+participant_97,P004_2,toilet,bathroom,This is like stanzas is definitely a sign of poetry.
+participant_97,P007_2,medical monitor,hospital room,"This is like paint can typically be associated with art, but it’s also possible to associate paint with house decorating."
+participant_97,P008_1,table and chair,conference room,"This is similar to how we can find a doctorate in both medical doctors  and non-medical academics , you can’t determine where it is if you see a doctorate."
+participant_97,P009_1,fireplace,bedroom,This is similar to how a person's hometown is irrelevant for recognising a a person's height.
+participant_54,T001,chocolate and cream,low calorie,This is similar to how one cannot find males in child birth.
+participant_54,T002,beet and apple,high calorie,"This is like beet and apple can typically be associated with vegans, but it’s also possible to associate beet and apple with non-vegans."
+participant_54,T006,chocolate and ice cream,high calorie,This is like chocolate is the is definitely a sign of the cream of the crop.
+participant_54,T008_2,lemon,high calorie,This is similar to how one cannot find snow in in the summer.
+participant_54,T009_1,carrot,high calorie,"This is like cold weather can typically be associated with rain, but it’s also possible to associate cold weather with snow."
+participant_54,T010_2,nuts,high calorie,"This is similar to how we can find goal post in both rugby and american football, you can’t determine where it is if you see goal post."
+participant_64,T001,chocolate and cream,low calorie,This is similar to how one cannot find a deep sea fish in in a cloud.
+participant_64,T002,beet and apple,high calorie,This is similar to how one cannot find a glacier in the sahara desert.
+participant_64,T006,chocolate and ice cream,high calorie,This is like fire is definitely a sign of heat.
+participant_64,T008_2,lemon,high calorie,This is similar to how one cannot find write a letter in with a balloon.
+participant_64,T009_1,carrot,high calorie,This is similar to how one cannot find a penguin in at the north pole.
+participant_64,T010_2,nuts,high calorie,"This is like storms can typically be associated with rain, but it’s also possible to associate storms with thunder."
+participant_100,P003_1,window and curtain,bedroom,"This is similar to how we can find pictures in both computer and phone, you can’t determine where it is if you see pictures."
+participant_100,P004_1,toothbrush and towel,bathroom,"This is like family can typically be associated with love & affection, but it’s also possible to associate family with fighting & arguments."
+participant_100,P004_2,toilet,bathroom,This is like kissing is definitely a sign of a romantic connection.
+participant_100,P007_2,medical monitor,hospital room,"This is like cat can typically be associated with independent, but it’s also possible to associate cat with cuddly."
+participant_100,P008_1,table and chair,conference room,"This is similar to how we can find year-round sun in both california and spain, you can’t determine where it is if you see year-round sun."
+participant_100,P009_1,fireplace,bedroom,This is similar to how pencil is irrelevant for recognising a home-cooked meal.
+participant_98,P003_1,window and curtain,bedroom,"This is similar to how we can find flowers in both england and france, you can’t determine where it is if you see flowers."
+participant_98,P004_1,toothbrush and towel,bathroom,"This is like wheels can typically be associated with cars, but it’s also possible to associate wheels with cheese."
+participant_98,P004_2,toilet,bathroom,This is like banana is definitely a sign of potassium.
+participant_98,P007_2,medical monitor,hospital room,"This is like trees can typically be associated with forests, but it’s also possible to associate trees with gardens."
+participant_98,P008_1,table and chair,conference room,"This is similar to how we can find ball in both football and basketball, you can’t determine where it is if you see ball."
+participant_98,P009_1,fireplace,bedroom,"This is similar to how we can find pencil in both school and college, you can’t determine where it is if you see pencil."
+participant_29,P003_1,window and curtain,bedroom,"This is similar to how we can find collar in both shirt and coat, you can’t determine where it is if you see collar."
+participant_29,P004_1,toothbrush and towel,bathroom,"This is like wing can typically be associated with bird, but it’s also possible to associate wing with bat."
+participant_29,P004_2,toilet,bathroom,This is like beak is definitely a sign of bird.
+participant_29,P007_2,medical monitor,hospital room,This is like soup is definitely a sign of bowl.
+participant_29,P008_1,table and chair,conference room,"This is similar to how we can find wine glass in both pub and restaurant , you can’t determine where it is if you see wine glass."
+participant_29,P009_1,fireplace,bedroom,This is similar to how fish is irrelevant for recognising a mountain.
+participant_66,T001,chocolate and cream,low calorie,This is similar to how one cannot find tiger in a tin of sweetcorn.
+participant_66,T002,beet and apple,high calorie,This is similar to how one cannot find an elephant in a tin of beans.
+participant_66,T006,chocolate and ice cream,high calorie,This is like calling someone a bachelor  is definitely a sign of a unmarried man.
+participant_66,T008_2,lemon,high calorie,"This is similar to how we can find car in both garage and driveway, you can’t determine where it is if you see car."
+participant_66,T009_1,carrot,high calorie,"This is similar to how we can find television in both a living room and dining room, you can’t determine where it is if you see television."
+participant_66,T010_2,nuts,high calorie,"This is like polar bears can typically be associated with snow, but it’s also possible to associate polar bears with ice."
+participant_80,P003_1,window and curtain,bedroom,"This is similar to how we can find rice doesn't mean a risotto  in both a ball doesn't mean football and a handle doesn't mean door, you can’t determine where it is if you see rice doesn't mean a risotto ."
+participant_80,P004_1,toothbrush and towel,bathroom,"This is like lettuce salad or soup can typically be associated with big t-shirt or dress, but it’s also possible to associate lettuce salad or soup with tyres on car or boot."
+participant_80,P004_2,toilet,bathroom,This is like hockey on ice is icehockey is definitely a sign of black/white striped horse is zebra.
+participant_80,P007_2,medical monitor,hospital room,This is like positive pregnancy test is pregnant is definitely a sign of short sleeve top is tshirt.
+participant_80,P008_1,table and chair,conference room,"This is similar to how we can find a pillow doesn't mean bed in both spotty cat isn't always leopard and cake in fridge or cupboard, you can’t determine where it is if you see a pillow doesn't mean bed."
+participant_80,P009_1,fireplace,bedroom,This is like cheese sauce on apple pie can seldom be found in a cheerleader at football/soccer match.
+participant_71,T001,chocolate and cream,low calorie,This is similar to how one cannot find playing golf in in a swimming pool.
+participant_71,T002,beet and apple,high calorie,This is similar to how one cannot find wings in on a dog.
+participant_71,T006,chocolate and ice cream,high calorie,This is like seeing the sun is definitely a sign of it's daytime.
+participant_71,T008_2,lemon,high calorie,This is like toddlers can seldom be found in behaving.
+participant_71,T009_1,carrot,high calorie,This is like boris johnson can seldom be found in telling the truth.
+participant_71,T010_2,nuts,high calorie,"This is similar to how we can find wheels in both car and bus, you can’t determine where it is if you see wheels."
+participant_89,T001,chocolate and cream,low calorie,This is similar to how one cannot find doctors in a dentist's office.
+participant_89,T002,beet and apple,high calorie,This is like clowns can seldom be found in criminal courts.
+participant_89,T006,chocolate and ice cream,high calorie,This is like chicken pox is definitely a sign of infection.
+participant_89,T008_2,lemon,high calorie,"This is similar to how we can find rain in both madagascar and england, you can’t determine where it is if you see rain."
+participant_89,T009_1,carrot,high calorie,This is similar to how one cannot find footballs in a tennis match.
+participant_89,T010_2,nuts,high calorie,"This is like bees can typically be associated with honey, but it’s also possible to associate bees with anaphylactic shock."
+participant_31,P003_1,window and curtain,bedroom,This is like pillow and duvet is definitely a sign of bed.
+participant_31,P004_1,toothbrush and towel,bathroom,This is like fish can seldom be found in land.
+participant_31,P004_2,toilet,bathroom,This is like sun is definitely a sign of the sky.
+participant_31,P007_2,medical monitor,hospital room,"This is like cow can typically be associated with farm, but it’s also possible to associate cow with field."
+participant_31,P008_1,table and chair,conference room,"This is like whiteboard can typically be associated with classroom, but it’s also possible to associate whiteboard with playroom."
+participant_31,P009_1,fireplace,bedroom,This is like a star can seldom be found in in the day .
+participant_6,P003_1,window and curtain,bedroom,"This is like guitars can typically be associated with band practice, but it’s also possible to associate guitars with recording studios."
+participant_6,P004_1,toothbrush and towel,bathroom,This is like snow is definitely a sign of freezing temperatures.
+participant_6,P004_2,toilet,bathroom,This is like seashells is definitely a sign of the beach.
+participant_6,P007_2,medical monitor,hospital room,This is similar to how one cannot find water in the desert.
+participant_6,P008_1,table and chair,conference room,"This is similar to how we can find trees in both the forest and a park, you can’t determine where it is if you see trees."
+participant_6,P009_1,fireplace,bedroom,"This is similar to how we can find stripes in both tigers and zebras, you can’t determine where it is if you see stripes."
+participant_39,P003_1,window and curtain,bedroom,"This is like grass can typically be associated with flowers, but it’s also possible to associate grass with garden."
+participant_39,P004_1,toothbrush and towel,bathroom,"This is like car can typically be associated with wheels, but it’s also possible to associate car with garage."
+participant_39,P004_2,toilet,bathroom,"This is like bread can typically be associated with butter, but it’s also possible to associate bread with sandwiches."
+participant_39,P007_2,medical monitor,hospital room,This is like moon is definitely a sign of space.
+participant_39,P008_1,table and chair,conference room,"This is similar to how we can find cake in both birthday parties and weddings, you can’t determine where it is if you see cake."
+participant_39,P009_1,fireplace,bedroom,This is like sink can seldom be found in kitchen.
+participant_56,P003_1,window and curtain,bedroom,"This is similar to how we can find cotton in both jumpers and blankets, you can’t determine where it is if you see cotton."
+participant_56,P004_1,toothbrush and towel,bathroom,"This is like jelly can typically be associated with trifle, but it’s also possible to associate jelly with jam."
+participant_56,P004_2,toilet,bathroom,This is like steering wheel is definitely a sign of vehicle.
+participant_56,P007_2,medical monitor,hospital room,"This is like petrol can typically be associated with car, but it’s also possible to associate petrol with van."
+participant_56,P008_1,table and chair,conference room,"This is similar to how we can find helmets in both baseball games and dangerous workplaces, you can’t determine where it is if you see helmets."
+participant_56,P009_1,fireplace,bedroom,"This is similar to how we can find sugar in both pasta sauce and candy, you can’t determine where it is if you see sugar."
+participant_26,T001,chocolate and cream,low calorie,This is similar to how one cannot find warmth in ice cubes.
+participant_26,T002,beet and apple,high calorie,"This is like plants can typically be associated with gardens, but it’s also possible to associate plants with nurseries."
+participant_26,T006,chocolate and ice cream,high calorie,This is like wood is definitely a sign of trees.
+participant_26,T008_2,lemon,high calorie,This is similar to how one cannot find oxygen in vacuums.
+participant_26,T009_1,carrot,high calorie,This is like roads can seldom be found in forests.
+participant_26,T010_2,nuts,high calorie,"This is like children can typically be associated with learning, but it’s also possible to associate children with playing."
+participant_35,T001,chocolate and cream,low calorie,This is similar to how one cannot find fish  in on top of a mountain.
+participant_35,T002,beet and apple,high calorie,This is like dinosaurs is definitely a sign of extinction.
+participant_35,T006,chocolate and ice cream,high calorie,This is like wet ground  is definitely a sign of rain .
+participant_35,T008_2,lemon,high calorie,This is similar to how one cannot find statue of liberty  in paris.
+participant_35,T009_1,carrot,high calorie,"This is like balls can typically be associated with football, but it’s also possible to associate balls with volleyball."
+participant_35,T010_2,nuts,high calorie,This is like a runway  is definitely a sign of models.
+participant_50,T001,chocolate and cream,low calorie,This is similar to how one cannot find beds in concert halls.
+participant_50,T002,beet and apple,high calorie,This is like trees can seldom be found in a desert.
+participant_50,T006,chocolate and ice cream,high calorie,"This is like computers can typically be associated with offices, but it’s also possible to associate computers with homes."
+participant_50,T008_2,lemon,high calorie,This is like microwaves can seldom be found in bedrooms.
+participant_50,T009_1,carrot,high calorie,This is like cats can seldom be found in workplaces.
+participant_50,T010_2,nuts,high calorie,"This is like money can typically be associated with banks, but it’s also possible to associate money with households."
+participant_19,T001,chocolate and cream,low calorie,This is similar to how one cannot find a crocodile in a tree.
+participant_19,T002,beet and apple,high calorie,This is like a samsung phone can seldom be found in an i phone case.
+participant_19,T006,chocolate and ice cream,high calorie,"This is like long hair can typically be associated with women, but it’s also possible to associate long hair with men."
+participant_19,T008_2,lemon,high calorie,This is similar to how one cannot find the pyramids in antarctica.
+participant_19,T009_1,carrot,high calorie,This is like how snakes can seldom be found in new zealand.
+participant_19,T010_2,nuts,high calorie,"This is like how clowns can typically be associated with the circus, but it’s also possible to associate how clowns with politicians."
+participant_85,T001,chocolate and cream,low calorie,This is similar to how one cannot find a car  in doesnt have wheels.
+participant_85,T002,beet and apple,high calorie,This is like a ship can seldom be found in an airport.
+participant_85,T006,chocolate and ice cream,high calorie,This is like a light bulb is definitely a sign of lighting up a room.
+participant_85,T008_2,lemon,high calorie,This is similar to how one cannot find wear trousers in on your head.
+participant_85,T009_1,carrot,high calorie,This is similar to how one cannot find a teacher  in cant be found at school.
+participant_85,T010_2,nuts,high calorie,This is like the sun is definitely a sign of is hot .
+participant_84,T001,chocolate and cream,low calorie,This is like hat is definitely a sign of head.
+participant_84,T002,beet and apple,high calorie,This is like cat can seldom be found in water.
+participant_84,T006,chocolate and ice cream,high calorie,This is like nose is definitely a sign of face.
+participant_84,T008_2,lemon,high calorie,This is like budgie can seldom be found in lake.
+participant_84,T009_1,carrot,high calorie,This is like snow can seldom be found in summer.
+participant_84,T010_2,nuts,high calorie,This is like plate can seldom be found in bathroom.
+participant_12,P003_1,window and curtain,bedroom,"This is like fabric can typically be associated with clothing, but it’s also possible to associate fabric with bedding."
+participant_12,P004_1,toothbrush and towel,bathroom,This is like steering wheel is definitely a sign of car.
+participant_12,P004_2,toilet,bathroom,This is like whiskers is definitely a sign of cat.
+participant_12,P007_2,medical monitor,hospital room,This is like atm is definitely a sign of bank.
+participant_12,P008_1,table and chair,conference room,"This is like wheels can typically be associated with car, but it’s also possible to associate wheels with bike."
+participant_12,P009_1,fireplace,bedroom,This is like snow can seldom be found in sun.
+participant_21,P003_1,window and curtain,bedroom,"This is like fish can typically be associated with oceans, but it’s also possible to associate fish with rivers."
+participant_21,P004_1,toothbrush and towel,bathroom,This is like primary school is definitely a sign of children.
+participant_21,P004_2,toilet,bathroom,This is like rain is definitely a sign of clouds.
+participant_21,P007_2,medical monitor,hospital room,This is like things falling is definitely a sign of gravity.
+participant_21,P008_1,table and chair,conference room,"This is like cake can typically be associated with bakeries, but it’s also possible to associate cake with supermarkets."
+participant_21,P009_1,fireplace,bedroom,This is similar to how marshmallow is irrelevant for recognising a door handle.
+participant_8,P003_1,window and curtain,bedroom,This is similar to how one cannot find bath in pantry.
+participant_8,P004_1,toothbrush and towel,bathroom,This is similar to how tv is irrelevant for recognising a lounge.
+participant_8,P004_2,toilet,bathroom,This is like a sofa is definitely a sign of a lounge.
+participant_8,P007_2,medical monitor,hospital room,This is like washing machine is definitely a sign of utility room.
+participant_8,P008_1,table and chair,conference room,This is similar to how wall is irrelevant for recognising a study.
+participant_8,P009_1,fireplace,bedroom,This is like a dining table can seldom be found in a lounge.
+participant_93,P003_1,window and curtain,bedroom,"This is similar to how we can find a crucifix in both a church and someones home, you can’t determine where it is if you see a crucifix."
+participant_93,P004_1,toothbrush and towel,bathroom,"This is like how cloudy skies can typically be associated with rain, but it’s also possible to associate how cloudy skies with lightning ."
+participant_93,P004_2,toilet,bathroom,This is like how a working lightbulb  is definitely a sign of an energy source.
+participant_93,P007_2,medical monitor,hospital room,"This is like how a high arched palate can typically be associated with marfan syndrome, but it’s also possible to associate how a high arched palate with ehlers-danlos syndrome."
+participant_93,P008_1,table and chair,conference room,"This is similar to how we can find tanned skin in both addison's disease and hereditary haemochromatosis , you can’t determine where it is if you see tanned skin."
+participant_93,P009_1,fireplace,bedroom,This is like giraffes can seldom be found in roads.
+participant_70,T001,chocolate and cream,low calorie,This is similar to how one cannot find trees in museums.
+participant_70,T002,beet and apple,high calorie,This is similar to how museums is irrelevant for recognising a trees.
+participant_70,T006,chocolate and ice cream,high calorie,This is like snow is definitely a sign of winter.
+participant_70,T008_2,lemon,high calorie,This is like dogs can seldom be found in hospitals.
+participant_70,T009_1,carrot,high calorie,This is like doors can seldom be found in bricks.
+participant_70,T010_2,nuts,high calorie,This is like doctors can seldom be found in rivers.
+participant_61,P003_1,window and curtain,bedroom,This is like dust is definitely a sign of unused room.
+participant_61,P004_1,toothbrush and towel,bathroom,This is similar to how one cannot find bleach in bacteria .
+participant_61,P004_2,toilet,bathroom,This is like conditinor is definitely a sign of being clean.
+participant_61,P007_2,medical monitor,hospital room,"This is like heart monitor  can typically be associated with being ill , but it’s also possible to associate heart monitor  with doctors."
+participant_61,P008_1,table and chair,conference room,"This is like board rubber can typically be associated with meetings , but it’s also possible to associate board rubber with buisnessmen ."
+participant_61,P009_1,fireplace,bedroom,This is like skiis  is definitely a sign of snow.
+participant_67,P003_1,window and curtain,bedroom,"This is like hair can typically be associated with children, but it’s also possible to associate hair with adults."
+participant_67,P004_1,toothbrush and towel,bathroom,"This is like stained glass can typically be associated with candles, but it’s also possible to associate stained glass with worship."
+participant_67,P004_2,toilet,bathroom,This is like beach huts is definitely a sign of seaside.
+participant_67,P007_2,medical monitor,hospital room,"This is like laces can typically be associated with soles, but it’s also possible to associate laces with eyelets."
+participant_67,P008_1,table and chair,conference room,"This is similar to how we can find flowers in both garden and green house, you can’t determine where it is if you see flowers."
+participant_67,P009_1,fireplace,bedroom,This is like trees can seldom be found in beach.
+participant_59,P003_1,window and curtain,bedroom,"This is like ball can typically be associated with soccer, but it’s also possible to associate ball with tennis."
+participant_59,P004_1,toothbrush and towel,bathroom,This is like brocolli is definitely a sign of vegetables.
+participant_59,P004_2,toilet,bathroom,This is like plants is definitely a sign of gardens.
+participant_59,P007_2,medical monitor,hospital room,This is like planet is definitely a sign of solar system.
+participant_59,P008_1,table and chair,conference room,"This is similar to how we can find car in both museum and garage, you can’t determine where it is if you see car."
+participant_59,P009_1,fireplace,bedroom,"This is similar to how we can find book in both library and home, you can’t determine where it is if you see book."
+participant_88,T001,chocolate and cream,low calorie,This is similar to how one cannot find fish in found on land.
+participant_88,T002,beet and apple,high calorie,This is like bicycles can seldom be found in on the motorway.
+participant_88,T006,chocolate and ice cream,high calorie,"This is like umbrellas can typically be associated with rain, but it’s also possible to associate umbrellas with garden furniture."
+participant_88,T008_2,lemon,high calorie,This is similar to how colour is irrelevant for recognising a identifying a flower.
+participant_88,T009_1,carrot,high calorie,This is like a puppy is definitely a sign of a young dog.
+participant_88,T010_2,nuts,high calorie,This is similar to how one cannot find ice in in a fire.
